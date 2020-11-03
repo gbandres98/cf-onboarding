@@ -79,11 +79,7 @@ Start PCF Dev and login
 You've already downloaded PCF Dev from Pivotal Network. Now you're going to run it!
 
 ### How?
-Unzip the file you downloaded in the first story (e.g. `unzip pcfdev-VERSION-linux.zip`)
-
-Run the executable binary file inside (e.g. `./pcfdev-VERSION-linux`)
-
-From the command line, run `cf dev start`. Because you are running it for the first time it will download the image and import it to VirtualBox before starting the VM. In the future, the same command will start PCF Dev without downloading or importing it again.
+Follow the instructions from [Pivotal Network](https://network.pivotal.io/products/pcfdev)
 
 FYI ...this process takes awhile. How long of a while will be influenced by your internet connectivity and bandwidth. Go get a snack or read some of the links.
 
